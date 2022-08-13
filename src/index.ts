@@ -1,3 +1,3 @@
-import SampleComponent from "./SampleComponent/SampleComponent.vue";
+import CrystalStack from "./CrystalStack/CrystalStack.vue";
 
-export { SampleComponent };
+export { CrystalStack };

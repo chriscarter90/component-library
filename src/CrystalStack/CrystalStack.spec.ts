@@ -1,5 +1,5 @@
 import { shallowMount } from "@vue/test-utils";
-import SampleComponent from "./SampleComponent.vue";
+import SampleComponent from "./CrystalStack.vue";
 
 describe("SampleComponent", () => {
   it("should render text correctly", () => {
