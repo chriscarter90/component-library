@@ -1,11 +1,11 @@
 import { shallowMount } from "@vue/test-utils";
-import SampleComponent from "./CrystalStack.vue";
+import CrystalStack from "./CrystalStack.vue";
 
 describe("SampleComponent", () => {
   it("should render text correctly", () => {
     const header = "header text";
     const body = "body text";
-    const wrapper = shallowMount(SampleComponent, {
+    const wrapper = shallowMount(CrystalStack, {
       props: { headingText: header, bodyText: body }
     });
 
