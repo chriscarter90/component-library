@@ -1,3 +1,7 @@
 import CrystalStack from "./CrystalStack/CrystalStack.vue";
+import CrystalBox from "./CrystalBox/CrystalBox.vue"
 
-export { CrystalStack };
+export {
+  CrystalBox,
+  CrystalStack,
+};
