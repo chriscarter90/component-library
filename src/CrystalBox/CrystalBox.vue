@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<style lang="scss" scoped>
+<style scoped>
 .box {
   padding: 1rem;
 }
